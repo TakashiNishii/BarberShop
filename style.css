@@ -2,6 +2,8 @@ body {
     
 }
 
+
+
 #banner {
     width: 100%;
 }
@@ -11,9 +13,12 @@ body {
     padding: 30px;
 }
 
-h1 {
-    text-align: center;
+.titulo-principal{
+    padding-left: 20px;
+}
 
+.titulo-centralizado {
+    text-align: center;
 }
 
 p {
@@ -35,10 +40,6 @@ em strong {
 
 .itens {
     font-style: italic;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
