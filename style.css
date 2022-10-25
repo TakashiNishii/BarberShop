@@ -2,8 +2,6 @@ body {
     
 }
 
-
-
 #banner {
     width: 100%;
 }
@@ -36,17 +34,22 @@ em strong {
 .beneficios{
     background: #FFFFFF;
     padding: 20px;
+    
 }
+
 
 .itens {
     font-style: italic;
+    list-style: square;
+    margin-left: 50px;
 }
 
-ul {
+.beneficios ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
+    
 }
 
 .imagembeneficios {
